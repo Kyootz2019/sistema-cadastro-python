@@ -1,5 +1,9 @@
 # 📇 Sistema de Contatos em Python
 
+👤 Autor: Cássio Henrique Macêdo Ribeiro  
+📊 Status: Em desenvolvimento
+
+## 🚀 Descrição
 Este projeto é um sistema simples de gerenciamento de contatos feito em Python.
 
 ## 💡 Funcionalidades
